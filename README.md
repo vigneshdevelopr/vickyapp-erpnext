@@ -1,0 +1,7 @@
+## Vickyapp
+
+vigneshapp
+
+#### License
+
+MIT

@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include vickyapp *.css
+recursive-include vickyapp *.csv
+recursive-include vickyapp *.html
+recursive-include vickyapp *.ico
+recursive-include vickyapp *.js
+recursive-include vickyapp *.json
+recursive-include vickyapp *.md
+recursive-include vickyapp *.png
+recursive-include vickyapp *.py
+recursive-include vickyapp *.svg
+recursive-include vickyapp *.txt
+recursive-exclude vickyapp *.pyc
